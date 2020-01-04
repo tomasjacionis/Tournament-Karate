@@ -40,8 +40,8 @@ namespace Tournament
                 label6.Visible = false;
                 label7.Visible = false;
                 label8.Visible = false;
-                //label9.Visible = false;
-                //label10.Visible = false;
+                label9.Visible = false;
+                label10.Visible = false;
                 //label11.Visible = false;
                 //label12.Visible = false;
                 //label13.Visible = false;
@@ -82,8 +82,8 @@ namespace Tournament
                 label6.Visible = false;
                 label7.Visible = false;
                 label8.Visible = false;
-                //label9.Visible = false;
-                //label10.Visible = false;
+                label9.Visible = false;
+                label10.Visible = false;
                 //label11.Visible = false;
                 //label12.Visible = false;
                 //label13.Visible = false;
@@ -125,8 +125,8 @@ namespace Tournament
                 
                 label7.Visible = false;
                 label8.Visible = false;
-                //label9.Visible = false;
-                //label10.Visible = false;
+                label9.Visible = false;
+                label10.Visible = false;
                 //label11.Visible = false;
                 //label12.Visible = false;
                 //label13.Visible = false;
@@ -169,8 +169,8 @@ namespace Tournament
                 label7.Location = new Point(974, 80);
 
                 label8.Visible = false;
-                //label9.Visible = false;
-                //label10.Visible = false;
+                label9.Visible = false;
+                label10.Visible = false;
                 //label11.Visible = false;
                 //label12.Visible = false;
                 //label13.Visible = false;
@@ -215,8 +215,8 @@ namespace Tournament
                 label8.Location = new Point(435, 80);
 
 
-                //label9.Visible = false;
-                //label10.Visible = false;
+                label9.Visible = false;
+                label10.Visible = false;
                 //label11.Visible = false;
                 //label12.Visible = false;
                 //label13.Visible = false;
@@ -246,12 +246,73 @@ namespace Tournament
             {
 
                 pictureBox1.Image = Properties.Resources._9;
+
+                label5.Visible = true;
+                label6.Visible = true;
+                label7.Visible = true;
+                label8.Visible = true;
+                label9.Visible = true;
+
+                label1.Location = new Point(467, 383);
+                label2.Location = new Point(460, 537);
+                label3.Location = new Point(986, 223);
+                label4.Location = new Point(986, 537);
+                label5.Location = new Point(372, 260);
+                label6.Location = new Point(986, 380);
+                label7.Location = new Point(986, 73);
+                label8.Location = new Point(372, 178);
+                label9.Location = new Point(467, 72);
+
+
+                label10.Visible = false;
+                //label11.Visible = false;
+                //label12.Visible = false;
+                //label13.Visible = false;
+                //label14.Visible = false;
+                //label15.Visible = false;
+                //label16.Visible = false;
+                //label17.Visible = false;
+                //label18.Visible = false;
+                //label19.Visible = false;
+                //label20.Visible = false;
+                //label21.Visible = false;
+                //label22.Visible = false;
+                //label23.Visible = false;
+                //label24.Visible = false;
+                //label25.Visible = false;
+                //label26.Visible = false;
+                //label27.Visible = false;
+                //label28.Visible = false;
+                //label29.Visible = false;
+                //label30.Visible = false;
+                //label31.Visible = false;
+                //label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(6))
             {
 
                 pictureBox1.Image = Properties.Resources._10;
+
+                label5.Visible = true;
+                label6.Visible = true;
+                label7.Visible = true;
+                label8.Visible = true;
+                label9.Visible = true;
+                label10.Visible = true;
+
+                label1.Location = new Point(436, 389);
+                label2.Location = new Point(436, 543);
+                label3.Location = new Point(1082, 268);
+                label4.Location = new Point(986, 543);
+                label5.Location = new Point(354, 268);
+                label6.Location = new Point(986, 389);
+                label7.Location = new Point(963, 80);
+                label8.Location = new Point(354, 191);
+                label9.Location = new Point(436, 81);
+                label10.Location = new Point(1082, 191);
+
+
             }
 
             if (comboBox1.SelectedIndex.Equals(7))
