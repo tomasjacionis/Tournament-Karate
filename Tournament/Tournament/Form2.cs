@@ -31,30 +31,215 @@ namespace Tournament
             if (comboBox1.SelectedIndex.Equals(0))  {
 
                 pictureBox1.Image = Properties.Resources._4;
+                label1.Location = new Point(503, 104);
+                label2.Location = new Point(503, 423);
+                label3.Location = new Point(820, 104);
+                label4.Location = new Point(820, 423);
+
+                label5.Visible = false;
+                label6.Visible = false;
+                label7.Visible = false;
+                label8.Visible = false;
+                //label9.Visible = false;
+                //label10.Visible = false;
+                //label11.Visible = false;
+                //label12.Visible = false;
+                //label13.Visible = false;
+                //label14.Visible = false;
+                //label15.Visible = false;
+                //label16.Visible = false;
+                //label17.Visible = false;
+                //label18.Visible = false;
+                //label19.Visible = false;
+                //label20.Visible = false;
+                //label21.Visible = false;
+                //label22.Visible = false;
+                //label23.Visible = false;
+                //label24.Visible = false;
+                //label25.Visible = false;
+                //label26.Visible = false;
+                //label27.Visible = false;
+                //label28.Visible = false;
+                //label29.Visible = false;
+                //label30.Visible = false;
+                //label31.Visible = false;
+                //label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(1))
             {
 
                 pictureBox1.Image = Properties.Resources._5;
+
+                label5.Visible = true;
+
+                label1.Location = new Point(437, 378);
+                label2.Location = new Point(437, 544);
+                label3.Location = new Point(837, 153);
+                label4.Location = new Point(837, 470);
+                label5.Location = new Point(526, 153);
+
+                label6.Visible = false;
+                label7.Visible = false;
+                label8.Visible = false;
+                //label9.Visible = false;
+                //label10.Visible = false;
+                //label11.Visible = false;
+                //label12.Visible = false;
+                //label13.Visible = false;
+                //label14.Visible = false;
+                //label15.Visible = false;
+                //label16.Visible = false;
+                //label17.Visible = false;
+                //label18.Visible = false;
+                //label19.Visible = false;
+                //label20.Visible = false;
+                //label21.Visible = false;
+                //label22.Visible = false;
+                //label23.Visible = false;
+                //label24.Visible = false;
+                //label25.Visible = false;
+                //label26.Visible = false;
+                //label27.Visible = false;
+                //label28.Visible = false;
+                //label29.Visible = false;
+                //label30.Visible = false;
+                //label31.Visible = false;
+                //label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(2))
             {
 
                 pictureBox1.Image = Properties.Resources._6;
+
+                label5.Visible = true;
+                label6.Visible = true;
+
+                label1.Location = new Point(445, 385);
+                label2.Location = new Point(445, 534);
+                label3.Location = new Point(877, 153);
+                label4.Location = new Point(972, 534);
+                label5.Location = new Point(540, 153);
+                label6.Location = new Point(972, 385);
+                
+                label7.Visible = false;
+                label8.Visible = false;
+                //label9.Visible = false;
+                //label10.Visible = false;
+                //label11.Visible = false;
+                //label12.Visible = false;
+                //label13.Visible = false;
+                //label14.Visible = false;
+                //label15.Visible = false;
+                //label16.Visible = false;
+                //label17.Visible = false;
+                //label18.Visible = false;
+                //label19.Visible = false;
+                //label20.Visible = false;
+                //label21.Visible = false;
+                //label22.Visible = false;
+                //label23.Visible = false;
+                //label24.Visible = false;
+                //label25.Visible = false;
+                //label26.Visible = false;
+                //label27.Visible = false;
+                //label28.Visible = false;
+                //label29.Visible = false;
+                //label30.Visible = false;
+                //label31.Visible = false;
+                //label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(3))
             {
 
                 pictureBox1.Image = Properties.Resources._7;
+
+                label5.Visible = true;
+                label6.Visible = true;
+                label7.Visible = true;
+
+                label1.Location = new Point(445, 385);
+                label2.Location = new Point(445, 534);
+                label3.Location = new Point(974, 231);
+                label4.Location = new Point(972, 534);
+                label5.Location = new Point(526, 153);
+                label6.Location = new Point(972, 385);
+                label7.Location = new Point(974, 80);
+
+                label8.Visible = false;
+                //label9.Visible = false;
+                //label10.Visible = false;
+                //label11.Visible = false;
+                //label12.Visible = false;
+                //label13.Visible = false;
+                //label14.Visible = false;
+                //label15.Visible = false;
+                //label16.Visible = false;
+                //label17.Visible = false;
+                //label18.Visible = false;
+                //label19.Visible = false;
+                //label20.Visible = false;
+                //label21.Visible = false;
+                //label22.Visible = false;
+                //label23.Visible = false;
+                //label24.Visible = false;
+                //label25.Visible = false;
+                //label26.Visible = false;
+                //label27.Visible = false;
+                //label28.Visible = false;
+                //label29.Visible = false;
+                //label30.Visible = false;
+                //label31.Visible = false;
+                //label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(4))
             {
 
                 pictureBox1.Image = Properties.Resources._8;
+
+                label5.Visible = true;
+                label6.Visible = true;
+                label7.Visible = true;
+                label8.Visible = true;
+
+                label1.Location = new Point(434, 385);
+                label2.Location = new Point(434, 541);
+                label3.Location = new Point(966, 231);
+                label4.Location = new Point(964, 541);
+                label5.Location = new Point(435, 231);
+                label6.Location = new Point(964, 385);
+                label7.Location = new Point(966, 80);
+                label8.Location = new Point(435, 80);
+
+
+                //label9.Visible = false;
+                //label10.Visible = false;
+                //label11.Visible = false;
+                //label12.Visible = false;
+                //label13.Visible = false;
+                //label14.Visible = false;
+                //label15.Visible = false;
+                //label16.Visible = false;
+                //label17.Visible = false;
+                //label18.Visible = false;
+                //label19.Visible = false;
+                //label20.Visible = false;
+                //label21.Visible = false;
+                //label22.Visible = false;
+                //label23.Visible = false;
+                //label24.Visible = false;
+                //label25.Visible = false;
+                //label26.Visible = false;
+                //label27.Visible = false;
+                //label28.Visible = false;
+                //label29.Visible = false;
+                //label30.Visible = false;
+                //label31.Visible = false;
+                //label32.Visible = false;
+
             }
 
             if (comboBox1.SelectedIndex.Equals(5))
