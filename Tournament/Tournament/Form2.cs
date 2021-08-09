@@ -46,7 +46,7 @@ namespace Tournament
                 label12.Visible = false;
                 label13.Visible = false;
                 label14.Visible = false;
-                //label15.Visible = false;
+                label15.Visible = false;
                 //label16.Visible = false;
                 //label17.Visible = false;
                 //label18.Visible = false;
@@ -88,7 +88,7 @@ namespace Tournament
                 label12.Visible = false;
                 label13.Visible = false;
                 label14.Visible = false;
-                //label15.Visible = false;
+                label15.Visible = false;
                 //label16.Visible = false;
                 //label17.Visible = false;
                 //label18.Visible = false;
@@ -131,7 +131,7 @@ namespace Tournament
                 label12.Visible = false;
                 label13.Visible = false;
                 label14.Visible = false;
-                //label15.Visible = false;
+                label15.Visible = false;
                 //label16.Visible = false;
                 //label17.Visible = false;
                 //label18.Visible = false;
@@ -175,7 +175,7 @@ namespace Tournament
                 label12.Visible = false;
                 label13.Visible = false;
                 label14.Visible = false;
-                //label15.Visible = false;
+                label15.Visible = false;
                 //label16.Visible = false;
                 //label17.Visible = false;
                 //label18.Visible = false;
@@ -221,7 +221,7 @@ namespace Tournament
                 label12.Visible = false;
                 label13.Visible = false;
                 label14.Visible = false;
-                //label15.Visible = false;
+                label15.Visible = false;
                 //label16.Visible = false;
                 //label17.Visible = false;
                 //label18.Visible = false;
@@ -269,7 +269,7 @@ namespace Tournament
                 label12.Visible = false;
                 label13.Visible = false;
                 label14.Visible = false;
-                //label15.Visible = false;
+                label15.Visible = false;
                 //label16.Visible = false;
                 //label17.Visible = false;
                 //label18.Visible = false;
@@ -316,7 +316,7 @@ namespace Tournament
                 label12.Visible = false;
                 label13.Visible = false;
                 label14.Visible = false;
-                //label15.Visible = false;
+                label15.Visible = false;
                 //label16.Visible = false;
                 //label17.Visible = false;
                 //label18.Visible = false;
@@ -366,7 +366,7 @@ namespace Tournament
                 label12.Visible = false;
                 label13.Visible = false;
                 label14.Visible = false;
-                //label15.Visible = false;
+                label15.Visible = false;
                 //label16.Visible = false;
                 //label17.Visible = false;
                 //label18.Visible = false;
@@ -415,7 +415,7 @@ namespace Tournament
 
                 label13.Visible = false;
                 label14.Visible = false;
-                //label15.Visible = false;
+                label15.Visible = false;
                 //label16.Visible = false;
                 //label17.Visible = false;
                 //label18.Visible = false;
@@ -466,7 +466,7 @@ namespace Tournament
 
 
                 label14.Visible = false;
-                //label15.Visible = false;
+                label15.Visible = false;
                 //label16.Visible = false;
                 //label17.Visible = false;
                 //label18.Visible = false;
@@ -517,7 +517,7 @@ namespace Tournament
                 label13.Location = new Point(344, 426);
                 label14.Location = new Point(1061, 426);
 
-                //label15.Visible = false;
+                label15.Visible = false;
                 //label16.Visible = false;
                 //label17.Visible = false;
                 //label18.Visible = false;
@@ -536,30 +536,41 @@ namespace Tournament
                 //label31.Visible = false;
                 //label32.Visible = false;
 
-                //label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(11))
             {
 
                 pictureBox1.Image = Properties.Resources._15;
+
+                label5.Visible = true;
+                label6.Visible = true;
+                label7.Visible = true;
+                label8.Visible = true;
+                label9.Visible = true;
+                label10.Visible = true;
+                label11.Visible = true;
+                label12.Visible = true;
+                label13.Visible = true;
+                label14.Visible = true;
+                label15.Visible = true;
+
+                label1.Location = new Point(426, 374);
+                label2.Location = new Point(426, 595);
+                label3.Location = new Point(1066, 299);
+                label4.Location = new Point(1066, 523);
+                label5.Location = new Point(426, 299);
+                label6.Location = new Point(1066, 374);
+                label7.Location = new Point(1066, 148);
+                label8.Location = new Point(426, 225);
+                label9.Location = new Point(507, 119);
+                label10.Location = new Point(1066, 225);
+                label11.Location = new Point(1066, 595);
+                label12.Location = new Point(426, 523);
+                label13.Location = new Point(426, 447);
+                label14.Location = new Point(1066, 446);
+                label15.Location = new Point(1066, 75);
+
 
                 //label16.Visible = false;
                 //label17.Visible = false;
