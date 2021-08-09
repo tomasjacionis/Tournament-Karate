@@ -18,3 +18,14 @@ C:\Users\TheWolfLT\source\repos\tomasjacionis\Tournament-Karate\Tournament\Tourn
 C:\Users\TheWolfLT\source\repos\tomasjacionis\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.csproj.GenerateResource.cache
 C:\Users\TheWolfLT\source\repos\tomasjacionis\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.exe
 C:\Users\TheWolfLT\source\repos\tomasjacionis\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.pdb
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\bin\Debug\Tournament.exe.config
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\bin\Debug\Tournament.exe
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\bin\Debug\Tournament.pdb
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.csprojAssemblyReference.cache
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.Form1.resources
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.Form2.resources
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.Properties.Resources.resources
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.csproj.GenerateResource.cache
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.csproj.CoreCompileInputs.cache
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.exe
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.pdb
