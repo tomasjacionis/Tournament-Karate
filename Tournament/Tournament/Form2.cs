@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -24,17 +25,18 @@ namespace Tournament
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-           
 
-            
 
-            if (comboBox1.SelectedIndex.Equals(0))  {
+
+
+            if (comboBox1.SelectedIndex.Equals(0))
+            {
 
                 pictureBox1.Image = Properties.Resources._4;
-                label1.Location = new Point(503, 104);
-                label2.Location = new Point(503, 423);
-                label3.Location = new Point(820, 104);
-                label4.Location = new Point(820, 423);
+                label1.Location = new Point(548, 119);
+                label2.Location = new Point(548, 443);
+                label3.Location = new Point(817, 119);
+                label4.Location = new Point(817, 443);
 
                 label5.Visible = false;
                 label6.Visible = false;
@@ -73,11 +75,11 @@ namespace Tournament
 
                 label5.Visible = true;
 
-                label1.Location = new Point(437, 378);
-                label2.Location = new Point(437, 544);
-                label3.Location = new Point(837, 153);
-                label4.Location = new Point(837, 470);
-                label5.Location = new Point(526, 153);
+                label1.Location = new Point(567, 167);
+                label2.Location = new Point(489, 405);
+                label3.Location = new Point(489, 560);
+                label4.Location = new Point(832, 167);
+                label5.Location = new Point(833, 482);
 
                 label6.Visible = false;
                 label7.Visible = false;
@@ -122,7 +124,7 @@ namespace Tournament
                 label4.Location = new Point(972, 534);
                 label5.Location = new Point(540, 153);
                 label6.Location = new Point(972, 385);
-                
+
                 label7.Visible = false;
                 label8.Visible = false;
                 label9.Visible = false;
@@ -361,7 +363,7 @@ namespace Tournament
                 label8.Location = new Point(367, 191);
                 label9.Location = new Point(457, 81);
                 label10.Location = new Point(1055, 191);
-                label11.Location = new Point (1055, 577);
+                label11.Location = new Point(1055, 577);
 
                 label12.Visible = false;
                 label13.Visible = false;
@@ -845,6 +847,54 @@ namespace Tournament
                 pictureBox1.Image = Properties.Resources._32;
             }
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog f = new OpenFileDialog();
+            if (f.ShowDialog() == DialogResult.OK)
+            {
+                listBox1.Items.Clear();
+
+                var allLines = File.ReadAllLines(f.FileName);
+                for (var i = 0; i < allLines.Length; i++)
+                {
+                    listBox1.Items.Add(allLines[i]);
+                }
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //randomizina saraša jo viduje
+
+            ListBox.ObjectCollection list = listBox1.Items;
+            Random rng = new Random();
+            int n = list.Count;
+            //begin updating
+            listBox1.BeginUpdate();
+            while (n > 1)
+            {
+                n--;
+                int k = rng.Next(n + 1);
+                object value = list[k];
+                list[k] = list[n];
+                list[n] = value;
+            }
+            listBox1.EndUpdate();
+            listBox1.Invalidate();
+
+            //suskirsto i vietas
+
+            if (comboBox1.SelectedIndex.Equals(0))
+            {
+                ListBox.ObjectCollection items = listBox1.Items;
+                label1.Text = (string)items[0];
+                label2.Text = (string)items[1];
+                label3.Text = (string)items[2];
+                label4.Text = (string)items[3];
+
+            }
         }
     }
 }
