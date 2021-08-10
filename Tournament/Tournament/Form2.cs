@@ -83,6 +83,11 @@ namespace Tournament
                 label4.Location = new Point(832, 166);
                 label5.Location = new Point(833, 482);
 
+                label1.ForeColor = Color.Red;
+                label2.ForeColor = Color.Red;
+                label3.ForeColor = Color.Black;
+                label4.ForeColor = Color.Red;
+
                 label6.Visible = false;
                 label7.Visible = false;
                 label8.Visible = false;
