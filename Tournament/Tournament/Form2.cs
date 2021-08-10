@@ -26,8 +26,9 @@ namespace Tournament
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
-                if (comboBox1.SelectedIndex.Equals(0))
+    
+            
+            if (comboBox1.SelectedIndex.Equals(0))
             {
 
                 pictureBox1.Image = Properties.Resources._4;
@@ -35,6 +36,9 @@ namespace Tournament
                 label2.Location = new Point(487, 442);
                 label3.Location = new Point(818, 119);
                 label4.Location = new Point(818, 442);
+
+                //label1.ForeColor = Color.Red;
+               //label3.ForeColor = Color.Red;
 
                 label5.Visible = false;
                 label6.Visible = false;
@@ -253,15 +257,15 @@ namespace Tournament
                 label8.Visible = true;
                 label9.Visible = true;
 
-                label1.Location = new Point(467, 383);
-                label2.Location = new Point(460, 537);
-                label3.Location = new Point(986, 223);
-                label4.Location = new Point(986, 537);
-                label5.Location = new Point(372, 260);
-                label6.Location = new Point(986, 380);
-                label7.Location = new Point(986, 73);
-                label8.Location = new Point(372, 178);
-                label9.Location = new Point(467, 72);
+                label1.Location = new Point(468, 86);
+                label2.Location = new Point(371, 196);
+                label3.Location = new Point(371, 272);
+                label4.Location = new Point(468, 395);
+                label5.Location = new Point(468, 549);
+                label6.Location = new Point(982, 86);
+                label7.Location = new Point(982, 241);
+                label8.Location = new Point(982, 395);
+                label9.Location = new Point(982, 549);
 
 
                 label10.Visible = false;
@@ -301,16 +305,16 @@ namespace Tournament
                 label9.Visible = true;
                 label10.Visible = true;
 
-                label1.Location = new Point(436, 389);
-                label2.Location = new Point(436, 543);
-                label3.Location = new Point(1082, 268);
-                label4.Location = new Point(986, 543);
-                label5.Location = new Point(354, 268);
-                label6.Location = new Point(986, 389);
-                label7.Location = new Point(963, 80);
-                label8.Location = new Point(354, 191);
-                label9.Location = new Point(436, 81);
-                label10.Location = new Point(1082, 191);
+                label1.Location = new Point(437, 95);
+                label2.Location = new Point(359, 204);
+                label3.Location = new Point(359, 281);
+                label4.Location = new Point(437, 400);
+                label5.Location = new Point(437, 557);
+                label6.Location = new Point(972, 95);
+                label7.Location = new Point(1078, 204);
+                label8.Location = new Point(1078, 280);
+                label9.Location = new Point(972, 400);
+                label10.Location = new Point(972, 557);
 
                 label11.Visible = false;
                 label12.Visible = false;
@@ -945,6 +949,39 @@ namespace Tournament
                 label6.Text = (string)items[5];
                 label7.Text = (string)items[6];
                 label8.Text = (string)items[7];
+
+            }
+
+
+            if (comboBox1.SelectedIndex.Equals(5))
+            {
+                ListBox.ObjectCollection items = listBox1.Items;
+                label1.Text = (string)items[0];
+                label2.Text = (string)items[1];
+                label3.Text = (string)items[2];
+                label4.Text = (string)items[3];
+                label5.Text = (string)items[4];
+                label6.Text = (string)items[5];
+                label7.Text = (string)items[6];
+                label8.Text = (string)items[7];
+                label9.Text = (string)items[8];
+
+            }
+
+
+            if (comboBox1.SelectedIndex.Equals(6))
+            {
+                ListBox.ObjectCollection items = listBox1.Items;
+                label1.Text = (string)items[0];
+                label2.Text = (string)items[1];
+                label3.Text = (string)items[2];
+                label4.Text = (string)items[3];
+                label5.Text = (string)items[4];
+                label6.Text = (string)items[5];
+                label7.Text = (string)items[6];
+                label8.Text = (string)items[7];
+                label9.Text = (string)items[8];
+                label10.Text = (string)items[9];
 
             }
 
