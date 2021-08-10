@@ -205,14 +205,14 @@ namespace Tournament
                 label7.Visible = true;
                 label8.Visible = true;
 
-                label1.Location = new Point(434, 385);
-                label2.Location = new Point(434, 541);
-                label3.Location = new Point(966, 231);
-                label4.Location = new Point(964, 541);
-                label5.Location = new Point(435, 231);
-                label6.Location = new Point(964, 385);
-                label7.Location = new Point(966, 80);
-                label8.Location = new Point(435, 80);
+                label1.Location = new Point(433, 91);
+                label2.Location = new Point(433, 245);
+                label3.Location = new Point(433, 398);
+                label4.Location = new Point(433, 551);
+                label5.Location = new Point(951, 93);
+                label6.Location = new Point(951, 245);
+                label7.Location = new Point(951, 398);
+                label8.Location = new Point(951, 551);
 
 
                 label9.Visible = false;
@@ -849,7 +849,10 @@ namespace Tournament
 
         private void button1_Click(object sender, EventArgs e)
         {
-            OpenFileDialog f = new OpenFileDialog();
+
+           OpenFileDialog f = new OpenFileDialog();
+
+                        
             if (f.ShowDialog() == DialogResult.OK)
             {
                 listBox1.Items.Clear();
@@ -929,6 +932,22 @@ namespace Tournament
                 label7.Text = (string)items[6];
 
             }
+
+
+            if (comboBox1.SelectedIndex.Equals(4))
+            {
+                ListBox.ObjectCollection items = listBox1.Items;
+                label1.Text = (string)items[0];
+                label2.Text = (string)items[1];
+                label3.Text = (string)items[2];
+                label4.Text = (string)items[3];
+                label5.Text = (string)items[4];
+                label6.Text = (string)items[5];
+                label7.Text = (string)items[6];
+                label8.Text = (string)items[7];
+
+            }
+
         }
 
         private void button3_Click(object sender, EventArgs e)
