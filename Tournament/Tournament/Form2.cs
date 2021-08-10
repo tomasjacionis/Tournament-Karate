@@ -969,7 +969,7 @@ namespace Tournament
             }
 
 
-            if (comboBox1.SelectedIndex.Equals(6))
+           if (comboBox1.SelectedIndex.Equals(6))
             {
                 ListBox.ObjectCollection items = listBox1.Items;
                 label1.Text = (string)items[0];
@@ -987,14 +987,9 @@ namespace Tournament
 
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void Form2_Load(object sender, EventArgs e)
         {
-
+            comboBox1.SelectedIndex = 0;
         }
     }
 }
