@@ -119,12 +119,12 @@ namespace Tournament
                 label5.Visible = true;
                 label6.Visible = true;
 
-                label1.Location = new Point(445, 385);
-                label2.Location = new Point(445, 534);
-                label3.Location = new Point(877, 153);
-                label4.Location = new Point(972, 534);
-                label5.Location = new Point(540, 153);
-                label6.Location = new Point(972, 385);
+                label1.Location = new Point(542, 166);
+                label2.Location = new Point(442, 398);
+                label3.Location = new Point(442, 551);
+                label4.Location = new Point(875, 166);
+                label5.Location = new Point(963, 398);
+                label6.Location = new Point(963, 551);
 
                 label7.Visible = false;
                 label8.Visible = false;
@@ -905,6 +905,18 @@ namespace Tournament
                 label3.Text = (string)items[2];
                 label4.Text = (string)items[3];
                 label5.Text = (string)items[4];
+
+            }
+
+            if (comboBox1.SelectedIndex.Equals(2))
+            {
+                ListBox.ObjectCollection items = listBox1.Items;
+                label1.Text = (string)items[0];
+                label2.Text = (string)items[1];
+                label3.Text = (string)items[2];
+                label4.Text = (string)items[3];
+                label5.Text = (string)items[4];
+                label6.Text = (string)items[5];
 
             }
         }
