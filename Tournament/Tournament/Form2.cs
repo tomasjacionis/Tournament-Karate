@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Drawing.Printing;
 
 namespace Tournament
 {
@@ -33,10 +34,10 @@ namespace Tournament
             {
 
                 pictureBox1.Image = Properties.Resources._4;
-                label1.Location = new Point(548, 119);
-                label2.Location = new Point(548, 443);
-                label3.Location = new Point(817, 119);
-                label4.Location = new Point(817, 443);
+                label1.Location = new Point(487, 119);
+                label2.Location = new Point(487, 442);
+                label3.Location = new Point(818, 119);
+                label4.Location = new Point(818, 442);
 
                 label5.Visible = false;
                 label6.Visible = false;
@@ -75,10 +76,10 @@ namespace Tournament
 
                 label5.Visible = true;
 
-                label1.Location = new Point(567, 167);
-                label2.Location = new Point(489, 405);
-                label3.Location = new Point(489, 560);
-                label4.Location = new Point(832, 167);
+                label1.Location = new Point(529, 167);
+                label2.Location = new Point(438, 403);
+                label3.Location = new Point(442, 560);
+                label4.Location = new Point(832, 166);
                 label5.Location = new Point(833, 482);
 
                 label6.Visible = false;
@@ -895,6 +896,27 @@ namespace Tournament
                 label4.Text = (string)items[3];
 
             }
+
+            if (comboBox1.SelectedIndex.Equals(1))
+            {
+                ListBox.ObjectCollection items = listBox1.Items;
+                label1.Text = (string)items[0];
+                label2.Text = (string)items[1];
+                label3.Text = (string)items[2];
+                label4.Text = (string)items[3];
+                label5.Text = (string)items[4];
+
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
