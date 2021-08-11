@@ -360,17 +360,17 @@ namespace Tournament
                 label10.Visible = true;
                 label11.Visible = true;
 
-                label1.Location = new Point(456, 389);
-                label2.Location = new Point(454, 543);
-                label3.Location = new Point(1056, 268);
-                label4.Location = new Point(1055, 498);
-                label5.Location = new Point(367, 268);
-                label6.Location = new Point(953, 389);
-                label7.Location = new Point(951, 81);
-                label8.Location = new Point(367, 191);
-                label9.Location = new Point(457, 81);
-                label10.Location = new Point(1055, 191);
-                label11.Location = new Point(1055, 577);
+                label1.Location = new Point(455, 95);
+                label2.Location = new Point(359, 204);
+                label3.Location = new Point(359, 280);
+                label4.Location = new Point(455, 400);
+                label5.Location = new Point(455, 557);
+                label6.Location = new Point(953, 95);
+                label7.Location = new Point(1058, 204);
+                label8.Location = new Point(1058, 280);
+                label9.Location = new Point(953, 400);
+                label10.Location = new Point(1058, 509);
+                label11.Location = new Point(1058, 585);
 
                 label12.Visible = false;
                 label13.Visible = false;
@@ -409,18 +409,18 @@ namespace Tournament
                 label11.Visible = true;
                 label12.Visible = true;
 
-                label1.Location = new Point(495, 389);
-                label2.Location = new Point(387, 577);
-                label3.Location = new Point(1062, 265);
-                label4.Location = new Point(1066, 499);
-                label5.Location = new Point(385, 264);
-                label6.Location = new Point(970, 389);
-                label7.Location = new Point(973, 74);
-                label8.Location = new Point(386, 186);
-                label9.Location = new Point(495, 75);
-                label10.Location = new Point(1064, 187);
-                label11.Location = new Point(1063, 577);
-                label12.Location = new Point(387, 499);
+                label1.Location = new Point(475, 86);
+                label2.Location = new Point(362, 197);
+                label3.Location = new Point(362, 276);
+                label4.Location = new Point(475, 401);
+                label5.Location = new Point(362, 512);
+                label6.Location = new Point(362, 590);
+                label7.Location = new Point(974, 85);
+                label8.Location = new Point(1062, 197);
+                label9.Location = new Point(1062, 276);
+                label10.Location = new Point(974, 401);
+                label11.Location = new Point(1062, 512);
+                label12.Location = new Point(1062, 590);
 
                 label13.Visible = false;
                 label14.Visible = false;
@@ -987,6 +987,41 @@ namespace Tournament
                 label8.Text = (string)items[7];
                 label9.Text = (string)items[8];
                 label10.Text = (string)items[9];
+
+            }
+
+            if (comboBox1.SelectedIndex.Equals(7))
+            {
+                ListBox.ObjectCollection items = listBox1.Items;
+                label1.Text = (string)items[0];
+                label2.Text = (string)items[1];
+                label3.Text = (string)items[2];
+                label4.Text = (string)items[3];
+                label5.Text = (string)items[4];
+                label6.Text = (string)items[5];
+                label7.Text = (string)items[6];
+                label8.Text = (string)items[7];
+                label9.Text = (string)items[8];
+                label10.Text = (string)items[9];
+                label11.Text = (string)items[10];
+
+            }
+
+            if (comboBox1.SelectedIndex.Equals(8))
+            {
+                ListBox.ObjectCollection items = listBox1.Items;
+                label1.Text = (string)items[0];
+                label2.Text = (string)items[1];
+                label3.Text = (string)items[2];
+                label4.Text = (string)items[3];
+                label5.Text = (string)items[4];
+                label6.Text = (string)items[5];
+                label7.Text = (string)items[6];
+                label8.Text = (string)items[7];
+                label9.Text = (string)items[8];
+                label10.Text = (string)items[9];
+                label11.Text = (string)items[10];
+                label12.Text = (string)items[11];
 
             }
 
