@@ -51,23 +51,23 @@ namespace Tournament
                 label13.Visible = false;
                 label14.Visible = false;
                 label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(1))
@@ -98,23 +98,23 @@ namespace Tournament
                 label13.Visible = false;
                 label14.Visible = false;
                 label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(2))
@@ -141,23 +141,23 @@ namespace Tournament
                 label13.Visible = false;
                 label14.Visible = false;
                 label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(3))
@@ -185,23 +185,23 @@ namespace Tournament
                 label13.Visible = false;
                 label14.Visible = false;
                 label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(4))
@@ -231,23 +231,23 @@ namespace Tournament
                 label13.Visible = false;
                 label14.Visible = false;
                 label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
 
             }
 
@@ -279,23 +279,23 @@ namespace Tournament
                 label13.Visible = false;
                 label14.Visible = false;
                 label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(6))
@@ -326,23 +326,23 @@ namespace Tournament
                 label13.Visible = false;
                 label14.Visible = false;
                 label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
 
 
             }
@@ -376,23 +376,23 @@ namespace Tournament
                 label13.Visible = false;
                 label14.Visible = false;
                 label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(8))
@@ -425,23 +425,23 @@ namespace Tournament
                 label13.Visible = false;
                 label14.Visible = false;
                 label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(9))
@@ -476,23 +476,23 @@ namespace Tournament
 
                 label14.Visible = false;
                 label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(10))
@@ -527,23 +527,23 @@ namespace Tournament
                 label14.Location = new Point(1061, 426);
 
                 label15.Visible = false;
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
 
             }
 
@@ -581,23 +581,23 @@ namespace Tournament
                 label15.Location = new Point(1066, 75);
 
 
-                //label16.Visible = false;
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label16.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(12))
@@ -605,22 +605,22 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._16;
 
-                //label17.Visible = false;
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label17.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(13))
@@ -628,21 +628,21 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._17;
 
-                //label18.Visible = false;
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label18.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(14))
@@ -650,20 +650,20 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._18;
 
-                //label19.Visible = false;
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label19.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(15))
@@ -671,19 +671,19 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._19;
 
-                //label20.Visible = false;
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label20.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(16))
@@ -691,18 +691,18 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._20;
 
-                //label21.Visible = false;
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label21.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(17))
@@ -710,17 +710,17 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._21;
 
-                //label22.Visible = false;
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label22.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(18))
@@ -728,16 +728,16 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._22;
 
-                //label23.Visible = false;
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label23.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(19))
@@ -745,15 +745,15 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._23;
 
-                //label24.Visible = false;
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label24.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(20))
@@ -761,14 +761,14 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._24;
 
-                //label25.Visible = false;
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label25.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(21))
@@ -776,13 +776,13 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._25;
 
-                //label26.Visible = false;
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label26.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(22))
@@ -790,12 +790,12 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._26;
 
-                //label27.Visible = false;
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label27.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(23))
@@ -803,11 +803,11 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._27;
 
-                //label28.Visible = false;
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label28.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(24))
@@ -815,10 +815,10 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._28;
 
-                //label29.Visible = false;
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label29.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(25))
@@ -826,9 +826,9 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._29;
 
-                //label30.Visible = false;
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label30.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(26))
@@ -836,8 +836,8 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._30;
 
-                //label31.Visible = false;
-                //label32.Visible = false;
+                label31.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(27))
@@ -845,7 +845,7 @@ namespace Tournament
 
                 pictureBox1.Image = Properties.Resources._31;
 
-                //label32.Visible = false;
+                label32.Visible = false;
             }
 
             if (comboBox1.SelectedIndex.Equals(28))
