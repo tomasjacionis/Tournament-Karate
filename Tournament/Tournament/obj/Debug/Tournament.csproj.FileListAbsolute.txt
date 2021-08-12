@@ -29,3 +29,7 @@ C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debu
 C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.csproj.CoreCompileInputs.cache
 C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.exe
 C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.pdb
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\bin\Debug\Tournament.exe.manifest
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\bin\Debug\Tournament.application
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.exe.manifest
+C:\Users\TheWolfLT\source\repos\Tournament-Karate\Tournament\Tournament\obj\Debug\Tournament.application
